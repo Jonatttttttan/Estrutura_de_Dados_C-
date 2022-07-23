@@ -52,5 +52,5 @@ void Fila::imprimir(){
     for(int i=primeiro % max_itens;i<ultimo;++i){
         cout << estrutura[i] << " ";
     }
-    cout << "]";
+    cout << "].";
 }
