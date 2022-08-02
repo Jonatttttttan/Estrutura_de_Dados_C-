@@ -89,6 +89,7 @@ void FilaDinamica:: listar(){
     }
     cout << " ]";
     delete noTemp;
+    cout << "teste";
 
     }
     
