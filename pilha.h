@@ -11,7 +11,7 @@ class Pilha{
    public:
    Pilha();
    
-   ~Pilha();
+  ~Pilha();
    
 
    bool estaCheia();
